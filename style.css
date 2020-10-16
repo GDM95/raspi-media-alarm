@@ -1,0 +1,7 @@
+QPushButton {
+    color: lightgreen;
+}
+
+QPushButton#okButton {                            
+    background-color: black;
+}
